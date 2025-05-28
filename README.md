@@ -31,7 +31,7 @@ By the end, I had a stronger understanding of what matters to me, what I’m cap
 
 
 <p align="center">
-<br>Career Development Completion <br/>
+<br>Skills and interests<br/>
   <br>
   <img width="895" alt="Skills and interest" src="https://github.com/user-attachments/assets/fbe85387-1757-4c14-b654-049253e96eb9" />
 
